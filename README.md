@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Dindu! 👋
 
-<!--
-**dindu-dsgn/dindu-dsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Product Designer | Product Designer at Incubate Technologies
+I'm a designer/ cybersecurity student focusing on bridging the gap between user experience and security
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Toolkit:
+* **Design:** Figma, UI/UX Research.
+* **Tech:** Cybersecurity Fundamentals, Basic Web Development.
+
+## 📬 Let's Connect:
+* [LinkedIn](https://www.linkedin.com/in/chimdindu-onyejiaka-318a29327)
+* [Portfolio](https://linktr.ee/chim_dindu)
