@@ -1,6 +1,6 @@
 # Hi, I'm Dindu! 👋
 
-### 🎨 Product Designer | Product Designer at Incubate Technologies
+### 🎨 Product Designer | Product Designer at Incubate Technologies | Product Designer at Compass
 I'm a designer/ cybersecurity student focusing on bridging the gap between user experience and security
 
 ---
